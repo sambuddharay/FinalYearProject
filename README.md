@@ -23,8 +23,4 @@ It must also be noted that players are often signed based on factors such as inj
 
 ## Instructions:
 
-for now:
-
-1. `Fork` this repo [henceforth called "Main Repo"] and create your forked copy of the repo under your account [henceforth called "Your Remote Repo"]
-2. `Clone` your remote repo fork into your local machine
-3. ping me on wap once you are done!
+Google docs - https://docs.google.com/document/d/15_9UxefSb8FwaqIMTKnxEtd_1cRLF0o5SlbDxFPEAxc/edit?usp=sharing
