@@ -31,5 +31,5 @@ def best_playmaker_score(df: pd.DataFrame)->None:
     pm = pm.assign(Playmaker_Score = lambda pm: pm.Goals*0.5 + pm.Assists*1 + pm.Passes_Attempted*1 + pm.xG*1 + pm.xA*1.5 - pm.Yellow_Cards*0.1 - pm.Red_Cards*0.3 + pm.Accurate_Passes*1 - pm.Inaccurate_Passes*0.05)
     pm = pm.assign(Time_Weighted_Playmaker_Score = lambda pm: pm.Playmaker_Score*1000/pm.Mins)
     
-    print(pm[['Name','Club','Nationality','Position','Age','Matches','Playmaker_Score']].sort_values(by=['Playmaker_Score'], ascending=False).head(20))
+    print(pm[['Name','Club','Playmaker_Score']].sort_values(by=['Playmaker_Score'], ascending=False).head(20))
     print(pm[['Name','Club','Nationality','Position','Age','Matches','Playmaker_Score', 'Time_Weighted_Playmaker_Score']].sort_values(by=['Time_Weighted_Playmaker_Score'], ascending=False).head(20))
