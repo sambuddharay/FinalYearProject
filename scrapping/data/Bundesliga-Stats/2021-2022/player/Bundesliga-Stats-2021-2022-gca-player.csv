@@ -1,0 +1,524 @@
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,SCA SCA,SCA SCA90,SCA Types PassLive,SCA Types PassDead,SCA Types TO,SCA Types Sh,SCA Types Fld,SCA Types Def,GCA GCA,GCA GCA90,GCA Types PassLive,GCA Types PassDead,GCA Types TO,GCA Types Sh,GCA Types Fld,GCA Types Def
+1,Dickson Abiama,NGA,FW,Greuther Fürth,22,1998,8.1,15,1.85,10,0,0,2,2,1,2,0.25,1,0,0,1,0,0
+2,Ragnar Ache,GER,MF|FW,Eint Frankfurt,23,1998,2.9,8,2.78,4,0,1,2,1,0,1,0.35,0,0,0,1,0,0
+3,Tyler Adams,USA,MF,RB Leipzig,22,1999,15.0,26,1.73,23,1,1,1,0,0,4,0.27,4,0,0,0,0,0
+4,Sargis Adamyan,ARM,FW|MF,Hoffenheim,28,1993,3.7,11,2.98,8,0,2,0,0,1,1,0.27,1,0,0,0,0,0
+5,Amine Adli,MAR,FW|MF,Leverkusen,21,2000,14.0,49,3.51,39,1,3,4,2,0,6,0.43,5,0,0,1,0,0
+6,Naouirou Ahamada,FRA,MF|DF,Stuttgart,19,2002,0.7,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+7,Manuel Akanji,SUI,DF,Dortmund,26,1995,25.1,16,0.64,12,2,1,1,0,0,1,0.04,1,0,0,0,0,0
+8,Kevin Akpoguma,NGA,DF|FW,Hoffenheim,26,1995,17.0,32,1.89,23,1,3,3,2,0,2,0.12,1,0,0,1,0,0
+9,Lucas Alario,ARG,FW,Leverkusen,28,1992,7.3,27,3.69,17,0,6,2,2,0,4,0.55,3,0,1,0,0,0
+10,Nadiem Amiri,GER,MF|FW,Leverkusen,24,1996,4.1,7,1.71,5,1,0,0,1,0,1,0.24,0,0,0,0,1,0
+11,Sebastian Andersson,SWE,FW,Köln,30,1991,14.0,20,1.43,16,0,0,1,2,1,4,0.29,3,0,0,0,1,0
+12,Andrés Andrade Cedeño,PAN,DF,Arminia,22,1998,11.6,7,0.60,6,0,0,1,0,0,1,0.09,1,0,0,0,0,0
+13,Fredrik André Bjørkan,NOR,DF,Hertha BSC,22,1998,3.9,10,2.55,8,1,0,0,1,0,0,0.00,0,0,0,0,0,0
+14,Robert Andrich,GER,MF,Leverkusen,26,1994,20.2,38,1.88,27,0,2,5,3,1,6,0.30,3,0,0,3,0,0
+15,Angeliño,ESP,DF,RB Leipzig,24,1997,25.5,83,3.25,53,22,3,4,1,0,8,0.31,5,3,0,0,0,0
+16,Waldemar Anton,GER,DF,Stuttgart,25,1996,28.8,37,1.28,31,0,1,2,2,1,2,0.07,2,0,0,0,0,0
+17,Christopher Antwi-Adjei,GHA,FW|MF,Bochum,27,1994,12.6,26,2.25,15,1,1,3,6,0,2,0.17,1,0,0,0,1,0
+18,Charles Aránguiz,CHI,MF,Leverkusen,32,1989,17.5,41,2.34,35,3,1,1,1,0,6,0.34,5,0,1,0,0,0
+19,Maximilian Arnold,GER,MF,Wolfsburg,27,1994,33.3,106,3.19,56,45,2,0,3,0,4,0.12,2,1,0,0,1,0
+20,Takuma Asano,JPN,FW|MF,Bochum,26,1994,17.9,49,2.74,35,0,4,6,3,1,7,0.39,6,0,0,0,1,0
+21,Santiago Ascacíbar,ARG,MF,Hertha BSC,24,1997,26.4,39,1.48,32,1,1,1,2,2,1,0.04,1,0,0,0,0,0
+22,Fisnik Asllani,KVX,MF|FW,Hoffenheim,18,2002,0.1,1,10.00,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+23,Simon Asta,GER,DF,Greuther Fürth,20,2001,8.7,11,1.26,8,3,0,0,0,0,1,0.11,0,1,0,0,0,0
+24,Taiwo Awoniyi,NGA,FW,Union Berlin,23,1997,24.2,68,2.82,46,0,8,11,3,0,6,0.25,2,0,2,1,1,0
+25,Sardar Azmoun,IRN,FW|MF,Leverkusen,26,1995,4.0,13,3.26,12,0,0,1,0,0,1,0.25,1,0,0,0,0,0
+26,Mitchel Bakker,NED,DF,Leverkusen,21,2000,20.2,37,1.83,34,0,1,1,1,0,6,0.30,6,0,0,0,0,0
+27,Ridle Baku,GER,DF|FW,Wolfsburg,23,1998,27.2,82,3.02,60,4,4,7,7,0,9,0.33,5,0,0,1,3,0
+28,Aymen Barkok,MAR,MF|DF,Eint Frankfurt,23,1998,1.8,3,1.69,2,1,0,0,0,0,0,0.00,0,0,0,0,0,0
+29,Leandro Barreiro Martins,LUX,MF,Mainz 05,21,2000,19.9,32,1.61,19,0,2,5,5,1,4,0.20,2,0,0,0,2,0
+30,Jacob Barrett Laursen,DEN,DF,Arminia,26,1994,18.1,22,1.21,12,9,1,0,0,0,1,0.06,1,0,0,0,0,0
+31,Abdourahmane Barry,GUI,DF,Greuther Fürth,21,2000,2.3,3,1.29,3,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+32,Maximilian Bauer,GER,DF,Greuther Fürth,21,2000,18.8,8,0.43,7,0,0,1,0,0,0,0.00,0,0,0,0,0,0
+33,Oliver Baumann,GER,GK,Hoffenheim,31,1990,33.0,2,0.06,0,2,0,0,0,0,0,0.00,0,0,0,0,0,0
+34,Timo Baumgartl,GER,DF,Union Berlin,25,1996,24.1,29,1.20,20,1,2,5,0,1,2,0.08,1,0,0,1,0,0
+35,Julian Baumgartlinger,AUT,MF|FW,Leverkusen,33,1988,1.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+36,Christoph Baumgartner,AUT,MF|FW,Hoffenheim,21,1999,21.0,53,2.53,43,0,3,1,4,2,4,0.19,3,0,0,0,0,1
+37,Noah Joel Sarenren Bazee,NGA,MF|FW,Augsburg,24,1996,2.7,5,1.86,3,0,0,0,1,1,0,0.00,0,0,0,0,0,0
+38,Ihlas Bebou,TOG,FW|DF,Hoffenheim,27,1994,23.2,57,2.45,41,2,6,6,2,0,7,0.30,4,0,1,2,0,0
+39,Sheraldo Becker,SUR,FW|MF,Union Berlin,26,1995,19.5,72,3.69,59,0,3,2,8,0,11,0.56,9,0,2,0,0,0
+40,Kevin Behrens,GER,FW,Union Berlin,30,1991,5.5,21,3.79,15,0,3,2,1,0,5,0.90,2,0,1,1,1,0
+41,Ishak Belfodil,ALG,FW,Hertha BSC,29,1992,18.2,53,2.92,41,0,4,5,2,1,8,0.44,4,0,1,1,1,1
+42,Stefan Bell,GER,DF,Mainz 05,29,1991,31.8,23,0.72,21,0,0,2,0,0,2,0.06,1,0,0,1,0,0
+43,Armel Bella Kotchap,GER,DF,Bochum,19,2001,19.6,10,0.54,9,0,0,0,1,0,0,0.00,0,0,0,0,0,0
+44,Karim Bellarabi,GER,FW|MF,Leverkusen,31,1990,7.6,28,3.69,15,0,2,6,4,1,4,0.53,2,0,0,1,1,0
+45,Jude Bellingham,ENG,MF,Dortmund,18,2003,31.0,104,3.35,72,0,13,5,11,3,17,0.55,11,0,2,0,2,2
+46,George Bello,USA,DF,Arminia,19,2002,4.8,5,1.04,3,0,0,1,1,0,0,0.00,0,0,0,0,0,0
+47,László Bénes,SVK,MF,M'Gladbach,23,1997,2.7,14,5.12,6,5,0,1,1,1,1,0.37,0,0,0,1,0,0
+48,Keanan Bennetts,ENG,FW|DF,M'Gladbach,22,1999,0.6,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+49,Ramy Bensebaini,ALG,DF,M'Gladbach,26,1995,22.4,31,1.45,24,2,0,1,1,3,4,0.19,3,0,0,1,0,0
+50,Jordan Beyer,GER,DF,M'Gladbach,21,2000,15.4,24,1.67,18,1,0,1,2,2,1,0.07,1,0,0,0,0,0
+51,Bartosz Białek,POL,FW|DF,Wolfsburg,19,2001,2.0,4,2.02,3,0,0,0,1,0,0,0.00,0,0,0,0,0,0
+52,Ermin Bičakčić,BIH,DF,Hoffenheim,31,1990,0.1,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+53,Tom Bischof,GER,MF,Hoffenheim,16,2005,0.2,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+54,Danny Blum,GER,FW,Bochum,30,1991,3.8,19,4.94,13,5,1,0,0,0,0,0.00,0,0,0,0,0,0
+55,Kevin-Prince Boateng,GHA,MF|FW,Hertha BSC,34,1987,7.7,19,2.46,16,0,0,1,2,0,0,0.00,0,0,0,0,0,0
+56,Herbert Bockhorn,GER,DF,Bochum,26,1995,9.4,15,1.78,8,1,2,0,4,0,1,0.12,0,0,1,0,0,0
+57,Jean-Paul Boëtius,NED,MF,Mainz 05,27,1994,20.0,62,3.10,41,14,1,2,3,1,6,0.30,4,1,0,1,0,0
+58,Tarsis Bonga,GER,MF|FW,Bochum,24,1997,0.2,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+59,Solomon Bonnah,NED,DF,RB Leipzig,17,2003,0.1,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+60,Sebastiaan Bornauw,BEL,DF,Wolfsburg,22,1999,22.3,5,0.22,5,0,0,0,0,0,1,0.04,1,0,0,0,0,0
+61,Rafael Borré,COL,FW,Eint Frankfurt,25,1995,26.4,66,2.50,46,0,6,8,6,0,9,0.34,6,0,2,1,0,0
+62,Dedryck Boyata,BEL,DF,Hertha BSC,30,1990,21.1,9,0.43,6,0,1,1,1,0,2,0.09,1,0,0,0,1,0
+63,Julian Brandt,GER,MF|FW,Dortmund,25,1996,23.1,97,4.20,60,26,7,4,0,0,22,0.95,14,5,2,1,0,0
+64,Iker Bravo,ESP,FW,Leverkusen,16,2005,0.1,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+65,Fabian Bredlow,GER,GK,Stuttgart,26,1995,4.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+66,Josip Brekalo,CRO,FW,Wolfsburg,23,1998,0.2,1,4.29,1,0,0,0,0,0,1,4.29,1,0,0,0,0,0
+67,Brian Brobbey,NED,FW|MF,RB Leipzig,19,2002,1.5,4,2.75,3,0,0,1,0,0,1,0.69,1,0,0,0,0,0
+68,John Brooks,USA,DF,Wolfsburg,28,1993,29.1,20,0.69,19,0,1,0,0,0,0,0.00,0,0,0,0,0,0
+69,Daniel Brosinski,GER,DF,Mainz 05,33,1988,4.3,12,2.77,8,4,0,0,0,0,1,0.23,1,0,0,0,0,0
+70,Cédric Brunner,SUI,DF,Arminia,27,1994,24.3,37,1.53,23,8,1,2,2,1,3,0.12,3,0,0,0,0,0
+71,Jacob Bruun Larsen,DEN,FW|MF,Hoffenheim,22,1998,9.0,26,2.88,22,0,1,2,1,0,1,0.11,1,0,0,0,0,0
+72,Sascha Burchert,GER,GK,Greuther Fürth,31,1989,14.0,2,0.14,2,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+73,Delano Burgzorg,NED,MF,Mainz 05,22,1998,0.3,1,3.33,0,0,1,0,0,0,0,0.00,0,0,0,0,0,0
+74,Jonathan Burkardt,GER,FW|MF,Mainz 05,21,2000,29.0,79,2.72,53,1,4,12,7,2,6,0.21,5,0,1,0,0,0
+75,Roman Bürki,SUI,GK,Dortmund,30,1990,1.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+76,Jamie Bynoe-Gittens,ENG,FW,Dortmund,16,2004,1.5,3,2.01,3,0,0,0,0,0,1,0.67,1,0,0,0,0,0
+77,Daniel Caligiuri,ITA,DF|MF,Augsburg,33,1988,22.3,65,2.92,30,20,4,2,4,5,8,0.36,3,3,0,1,1,0
+78,Emre Can,GER,DF|MF,Dortmund,27,1994,18.8,16,0.85,13,0,1,0,1,1,1,0.05,1,0,0,0,0,0
+79,Koen Casteels,BEL,GK,Wolfsburg,29,1992,28.0,1,0.04,0,1,0,0,0,0,0,0.00,0,0,0,0,0,0
+80,Gonzalo Castro,GER,MF|FW,Arminia,34,1987,4.8,13,2.69,9,3,0,1,0,0,1,0.21,0,1,0,0,0,0
+81,Julian Chabot,GER,DF,Köln,23,1998,2.3,1,0.43,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+82,Timothy Chandler,USA,DF,Eint Frankfurt,31,1990,13.5,19,1.41,12,3,0,2,2,0,1,0.07,0,1,0,0,0,0
+83,Justin Che,USA,FW|DF,Hoffenheim,17,2003,0.5,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+84,Max Christiansen,GER,MF,Greuther Fürth,24,1996,22.8,28,1.23,25,0,0,1,1,1,1,0.04,1,0,0,0,0,0
+85,Kingsley Coman,FRA,FW|DF,Bayern Munich,25,1996,15.1,53,3.51,42,2,3,4,2,0,5,0.33,5,0,0,0,0,0
+86,Lucas Copado,GER,FW,Bayern Munich,17,2004,0.2,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+87,Sergio Córdova,VEN,FW|MF,Augsburg,23,1997,3.6,4,1.10,4,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+88,Danny da Costa,GER,DF|MF,Eint Frankfurt,28,1993,8.1,10,1.24,8,0,1,0,1,0,0,0.00,0,0,0,0,0,0
+89,Tanguy Coulibaly,FRA,FW|MF,Stuttgart,20,2001,12.0,27,2.25,15,0,4,0,6,2,1,0.08,1,0,0,0,0,0
+90,Mickaël Cuisance,FRA,MF,Bayern Munich,21,1999,0.1,4,27.69,3,0,0,0,0,1,0,0.00,0,0,0,0,0,0
+91,Matheus Cunha,BRA,FW,Hertha BSC,22,1999,0.7,3,4.22,2,0,0,1,0,0,2,2.81,1,0,0,1,0,0
+92,Rafael Czichos,GER,DF,Köln,31,1990,15.6,13,0.83,11,0,0,0,0,2,2,0.13,1,0,0,0,0,1
+93,Lennart-Marten Czyborra,GER,DF,Arminia,22,1999,1.5,1,0.69,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+94,Moanes Dabbur,ISR,FW|MF,Hoffenheim,29,1992,14.6,37,2.54,28,0,2,4,1,2,6,0.41,5,0,0,0,0,1
+95,Finn Dahmen,GER,GK,Mainz 05,23,1998,2.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+96,Mahmoud Dahoud,GER,MF,Dortmund,25,1996,18.4,52,2.82,43,4,3,0,0,2,6,0.33,5,0,0,0,0,1
+97,Márton Dárdai,GER,DF,Hertha BSC,19,2002,8.4,7,0.83,4,3,0,0,0,0,2,0.24,0,2,0,0,0,0
+98,Vladimír Darida,CZE,MF,Hertha BSC,30,1990,19.8,62,3.12,44,11,0,4,3,0,7,0.35,7,0,0,0,0,0
+99,Alphonso Davies,CAN,DF,Bayern Munich,20,2000,19.3,70,3.62,54,4,9,1,2,0,4,0.21,4,0,0,0,0,0
+100,Saulo Decarli,SUI,DF,Bochum,29,1992,0.1,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+101,Thomas Delaney,DEN,MF,Dortmund,29,1991,0.2,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+102,Kerem Demirbay,GER,MF,Leverkusen,28,1993,22.8,71,3.12,30,33,2,2,3,1,10,0.44,7,2,0,0,1,0
+103,Ermedin Demirović,BIH,FW,Freiburg,23,1998,9.7,22,2.28,17,0,0,5,0,0,6,0.62,5,0,0,1,0,0
+104,Mike van der Hoorn,NED,DF,Arminia,28,1992,0.2,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+105,Moussa Diaby,FRA,FW|MF,Leverkusen,22,1999,30.7,115,3.75,90,8,11,3,2,1,24,0.78,19,0,3,1,1,0
+106,Daniel Didavi,GER,MF|FW,Stuttgart,31,1990,3.1,10,3.25,7,0,2,0,1,0,1,0.32,1,0,0,0,0,0
+107,Javairô Dilrosun,NED,FW,Hertha BSC,23,1998,1.5,1,0.65,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+108,Lee Dongjun,KOR,MF|FW,Hertha BSC,24,1997,1.3,2,1.51,1,0,0,1,0,0,1,0.76,1,0,0,0,0,0
+109,Niklas Dorsch,GER,MF,Augsburg,23,1998,25.8,40,1.55,26,8,0,1,2,3,3,0.12,3,0,0,0,0,0
+110,Ondrej Duda,SVK,MF|FW,Köln,26,1994,17.9,61,3.41,37,6,9,3,5,1,2,0.11,1,0,1,0,0,0
+111,Jeremy Dudziak,TUN,MF|FW,Greuther Fürth,25,1995,12.6,31,2.46,21,2,1,2,5,0,4,0.32,1,0,1,0,2,0
+112,Erik Durm,GER,DF,Eint Frankfurt,29,1992,5.3,7,1.33,6,1,0,0,0,0,3,0.57,3,0,0,0,0,0
+113,Maximilian Eggestein,GER,MF,Freiburg,24,1996,24.4,50,2.05,42,2,0,2,2,2,5,0.21,5,0,0,0,0,0
+114,Lilian Egloff,GER,MF|DF,Stuttgart,18,2002,0.3,1,2.81,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+115,Kingsley Ehizibue,NED,DF,Köln,26,1995,7.6,17,2.25,15,1,1,0,0,0,2,0.27,2,0,0,0,0,0
+116,Julian Eitschberger,GER,DF,Hertha BSC,17,2004,0.5,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+117,Jurgen Ekkelenkamp,NED,MF|FW,Hertha BSC,21,2000,8.0,16,2.01,12,0,0,2,1,1,0,0.00,0,0,0,0,0,0
+118,Nico Elvedi,SUI,DF,M'Gladbach,24,1996,27.0,15,0.56,12,0,1,1,0,1,2,0.07,2,0,0,0,0,0
+119,Breel Embolo,SUI,FW,M'Gladbach,24,1997,24.1,82,3.56,60,0,3,4,14,1,10,0.43,7,0,0,1,1,1
+120,Keita Endo,JPN,MF,Union Berlin,23,1997,0.6,3,4.91,2,0,0,0,1,0,0,0.00,0,0,0,0,0,0
+121,Wataru Endo,JPN,MF,Stuttgart,28,1993,32.2,63,1.96,52,0,2,4,3,2,3,0.09,3,0,0,0,0,0
+122,Michael Esser,GER,GK,Bochum,33,1987,3.0,1,0.33,0,1,0,0,0,0,0,0.00,0,0,0,0,0,0
+123,Wahid Faghir,DEN,FW,Stuttgart,18,2003,1.4,4,2.90,1,0,3,0,0,0,1,0.73,0,0,1,0,0,0
+124,Ömer Faruk Beyaz,TUR,DF|MF,Stuttgart,17,2003,0.8,1,1.25,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+125,Adrian Fein,GER,MF,Greuther Fürth,22,1999,0.4,2,5.63,1,0,0,1,0,0,1,2.81,0,0,0,1,0,0
+126,Ohis Felix Uduokhai,GER,DF,Augsburg,23,1997,8.7,5,0.57,5,0,0,0,0,0,1,0.11,1,0,0,0,0,0
+127,Edimilson Fernandes,SUI,MF|FW,Arminia,25,1996,3.1,10,3.18,9,0,1,0,0,0,0,0.00,0,0,0,0,0,0
+128,Alfreð Finnbogason,ISL,FW,Augsburg,32,1989,3.2,6,1.85,4,0,0,2,0,0,2,0.62,1,0,0,1,0,0
+129,Mark Flekken,NED,GK,Freiburg,28,1993,32.0,10,0.31,9,1,0,0,0,0,1,0.03,1,0,0,0,0,0
+130,Emil Forsberg,SWE,MF,RB Leipzig,29,1991,19.0,56,2.96,39,8,5,2,2,0,7,0.37,4,1,1,0,1,0
+131,Philipp Förster,GER,MF|FW,Stuttgart,26,1995,10.7,29,2.70,22,1,2,4,0,0,2,0.19,2,0,0,0,0,0
+132,Timothy Fosu-Mensah,NED,DF,Leverkusen,23,1998,1.6,2,1.24,2,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+133,Raphael Framberger,GER,DF,Augsburg,25,1995,9.4,21,2.23,17,3,0,0,0,1,0,0.00,0,0,0,0,0,0
+134,Marvin Friedrich,GER,DF,M'Gladbach,25,1995,6.7,1,0.15,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+135,Marvin Friedrich,GER,DF,Union Berlin,25,1995,13.0,10,0.77,7,0,0,3,0,0,0,0.00,0,0,0,0,0,0
+136,Jeremie Frimpong,NED,DF,Leverkusen,20,2000,22.8,54,2.37,44,1,7,1,1,0,9,0.39,9,0,0,0,0,0
+137,Christian Früchtl,GER,GK,Bayern Munich,21,2000,0.1,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+138,Chris Führich,GER,FW|MF,Stuttgart,23,1998,19.0,64,3.36,40,13,5,2,4,0,4,0.21,1,2,0,1,0,0
+139,Marius Funk,GER,GK,Greuther Fürth,25,1996,8.0,3,0.37,2,1,0,0,0,0,0,0.00,0,0,0,0,0,0
+140,Stephan Fürstner,GER,MF,Mainz 05,33,1987,0.1,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+141,Mijat Gaćinović,SRB,FW|MF,Hoffenheim,26,1995,1.2,3,2.45,2,1,0,0,0,0,0,0.00,0,0,0,0,0,0
+142,Cristian Gamboa,CRC,DF,Bochum,31,1989,19.1,37,1.93,24,7,1,0,3,2,4,0.21,3,1,0,0,0,0
+143,Silvère Ganvoula M'Boussy,CGO,FW,Bochum,25,1996,1.7,2,1.18,1,0,1,0,0,0,0,0.00,0,0,0,0,0,0
+144,Linus Gechter,GER,DF,Hertha BSC,17,2004,8.0,8,1.01,5,0,0,1,0,2,1,0.13,0,0,0,0,0,1
+145,Dennis Geiger,GER,MF,Hoffenheim,23,1998,15.3,51,3.33,32,13,0,3,1,2,3,0.20,1,1,0,1,0,0
+146,Yannick Gerhardt,GER,MF|DF,Wolfsburg,27,1994,17.5,37,2.12,29,1,0,3,3,1,6,0.34,5,0,0,1,0,0
+147,Hamadi Al Ghaddioui,MAR,FW,Stuttgart,30,1990,5.5,12,2.17,11,0,0,1,0,0,3,0.54,3,0,0,0,0,0
+148,Niko Gießelmann,GER,DF|FW,Union Berlin,29,1991,23.1,54,2.33,28,18,2,5,1,0,8,0.35,4,2,0,2,0,0
+149,Rafał Gikiewicz,POL,GK,Augsburg,33,1987,34.0,9,0.26,6,3,0,0,0,0,1,0.03,1,0,0,0,0,0
+150,Daniel Ginczek,GER,MF|FW,Wolfsburg,30,1991,0.1,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+151,Matthias Ginter,GER,DF,M'Gladbach,27,1994,26.2,50,1.99,41,1,0,5,2,1,3,0.12,2,0,0,1,0,0
+152,Serge Gnabry,GER,FW|DF,Bayern Munich,26,1995,24.3,111,4.57,85,4,5,10,4,3,16,0.66,11,0,3,1,1,0
+153,Leon Goretzka,GER,MF,Bayern Munich,26,1995,15.5,68,4.38,57,1,1,6,3,0,9,0.58,8,0,0,0,1,0
+154,Jeffrey Gouweleeuw,NED,DF,Augsburg,30,1991,28.6,26,0.91,22,2,0,1,0,1,1,0.03,1,0,0,0,0,0
+155,Jens Grahl,GER,GK,Eint Frankfurt,32,1988,1.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+156,Julian Green,USA,MF,Greuther Fürth,26,1995,11.7,31,2.65,18,7,2,0,3,1,0,0.00,0,0,0,0,0,0
+157,Michael Gregoritsch,AUT,FW|MF,Augsburg,27,1994,15.5,20,1.29,16,0,1,2,1,0,1,0.06,0,0,0,1,0,0
+158,Sebastian Griesbeck,GER,DF|MF,Greuther Fürth,30,1990,27.1,7,0.26,6,0,0,0,0,1,0,0.00,0,0,0,0,0,0
+159,Sebastian Griesbeck,GER,MF,Union Berlin,30,1990,0.1,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+160,Vincenzo Grifo,ITA,MF|FW,Freiburg,28,1993,30.8,141,4.57,79,45,3,10,4,0,21,0.68,13,7,0,0,1,0
+161,Lennart Grill,GER,GK,Leverkusen,22,1999,1.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+162,Florian Grillitsch,AUT,DF|MF,Hoffenheim,25,1995,16.6,38,2.29,33,1,2,1,1,0,4,0.24,4,0,0,0,0,0
+163,Carlos Gruezo,ECU,MF,Augsburg,26,1995,10.8,16,1.48,15,0,0,1,0,0,1,0.09,1,0,0,0,0,0
+164,Raphaël Guerreiro,POR,DF,Dortmund,27,1993,19.9,59,2.96,40,13,2,4,0,0,11,0.55,9,0,0,2,0,0
+165,Josuha Guilavogui,FRA,MF|DF,Wolfsburg,30,1990,10.5,14,1.34,10,0,1,2,0,1,1,0.10,0,0,0,1,0,0
+166,Péter Gulácsi,HUN,GK,RB Leipzig,31,1990,33.0,4,0.12,4,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+167,Manuel Gulde,GER,DF,Freiburg,30,1991,13.6,2,0.15,2,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+168,Robert Gumny,POL,DF,Augsburg,23,1998,25.2,31,1.23,21,4,1,2,3,0,1,0.04,0,0,0,1,0,0
+169,Christian Günter,GER,DF|MF,Freiburg,28,1993,34.0,109,3.21,56,42,2,2,7,0,13,0.38,6,4,0,1,2,0
+170,Lasse Günther,GER,DF,Augsburg,18,2003,1.8,1,0.56,0,0,0,0,1,0,0,0.00,0,0,0,0,0,0
+171,Joško Gvardiol,CRO,DF,RB Leipzig,19,2002,26.8,33,1.23,25,5,1,2,0,0,6,0.22,6,0,0,0,0,0
+172,Erling Haaland,NOR,FW,Dortmund,21,2000,21.2,61,2.87,44,0,6,8,3,0,16,0.75,11,0,3,2,0,0
+173,Janik Haberer,GER,MF,Freiburg,27,1994,9.1,7,0.77,6,0,0,1,0,0,0,0.00,0,0,0,0,0,0
+174,Alexander Hack,GER,DF,Mainz 05,27,1993,23.0,27,1.17,22,0,0,3,1,1,4,0.17,3,0,0,1,0,0
+175,Robin Hack,GER,FW|MF,Arminia,22,1998,15.2,49,3.24,34,3,2,6,4,0,3,0.20,2,0,0,1,0,0
+176,André Hahn,GER,MF|FW,Augsburg,30,1990,23.3,36,1.54,26,0,1,5,3,1,4,0.17,3,0,0,0,1,0
+177,Amadou Haidara,MLI,MF,RB Leipzig,23,1998,14.7,31,2.10,27,0,2,1,1,0,4,0.27,3,0,1,0,0,0
+178,Marcel Halstenberg,GER,DF,RB Leipzig,29,1991,5.6,8,1.42,6,2,0,0,0,0,1,0.18,0,1,0,0,0,0
+179,Genki Haraguchi,JPN,MF,Union Berlin,30,1991,19.5,46,2.36,33,0,3,4,5,1,5,0.26,5,0,0,0,0,0
+180,Luis Hartwig,GER,FW,Bochum,18,2002,0.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+181,Makoto Hasebe,JPN,DF,Eint Frankfurt,37,1984,13.2,14,1.06,13,0,1,0,0,0,1,0.08,1,0,0,0,0,0
+182,Thorgan Hazard,BEL,FW|DF,Dortmund,28,1993,14.9,43,2.89,28,5,5,2,3,0,4,0.27,1,0,2,1,0,0
+183,Jonas Hector,GER,DF,Köln,31,1990,28.4,67,2.36,54,7,1,4,0,1,7,0.25,7,0,0,0,0,0
+184,Hwang Hee-chan,KOR,FW,RB Leipzig,25,1996,0.5,1,1.84,0,0,0,0,1,0,0,0.00,0,0,0,0,0,0
+185,Dominique Heintz,GER,DF,Union Berlin,27,1993,5.2,4,0.77,3,0,0,0,1,0,1,0.19,1,0,0,0,0,0
+186,Dominique Heintz,GER,DF,Freiburg,27,1993,0.3,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+187,Benjamin Henrichs,GER,DF,RB Leipzig,24,1997,12.7,23,1.81,19,0,0,1,2,1,5,0.39,3,0,0,1,1,0
+188,Lucas Hernández,FRA,DF,Bayern Munich,25,1996,22.6,27,1.20,23,0,1,0,2,1,4,0.18,4,0,0,0,0,0
+189,Patrick Herrmann,GER,DF|FW,M'Gladbach,30,1991,8.4,36,4.29,23,9,1,2,1,0,6,0.71,5,1,0,0,0,0
+190,Piero Hincapié,ECU,DF,Leverkusen,19,2002,19.5,17,0.87,16,0,0,1,0,0,4,0.21,3,0,0,1,0,0
+191,Martin Hinteregger,AUT,DF,Eint Frankfurt,28,1992,24.7,19,0.77,12,0,0,5,1,1,3,0.12,1,0,0,1,1,0
+192,Marwin Hitz,SUI,GK,Dortmund,33,1987,4.5,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+193,Nicolas Höfler,GER,MF,Freiburg,31,1990,28.9,45,1.56,35,0,0,3,4,3,8,0.28,4,0,0,1,2,1
+194,Jonas Hofmann,GER,MF|FW,M'Gladbach,29,1992,23.1,143,6.19,84,46,5,4,3,1,12,0.52,10,0,2,0,0,0
+195,Lucas Höler,GER,FW,Freiburg,27,1994,28.7,94,3.27,71,0,3,10,10,0,10,0.35,7,0,1,1,1,0
+196,Gerrit Holtmann,PHI,FW|MF,Bochum,26,1995,20.4,61,3.13,43,0,10,3,3,2,8,0.41,5,0,2,1,0,0
+197,Justin Hoogma,NED,DF,Greuther Fürth,23,1998,3.0,1,0.33,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+198,Jannes Horn,GER,DF,Köln,24,1997,5.3,14,2.64,11,1,1,0,1,0,1,0.19,1,0,0,0,0,0
+199,Timo Horn,GER,GK,Köln,28,1993,13.0,2,0.15,2,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+200,Lukáš Hrádecký,FIN,GK,Leverkusen,31,1989,32.0,4,0.12,3,1,0,0,0,0,0,0.00,0,0,0,0,0,0
+201,Branimir Hrgota,SWE,FW,Greuther Fürth,28,1993,30.9,80,2.59,50,6,7,9,5,3,11,0.36,8,0,0,1,2,0
+202,Ajdin Hrustic,AUS,MF,Eint Frankfurt,25,1996,10.7,29,2.71,14,7,3,4,1,0,0,0.00,0,0,0,0,0,0
+203,Timo Hübers,GER,DF,Köln,25,1996,19.3,12,0.62,10,1,0,0,1,0,0,0.00,0,0,0,0,0,0
+204,Benjamin Hübner,GER,DF,Hoffenheim,32,1989,4.2,5,1.20,4,0,0,1,0,0,2,0.48,2,0,0,0,0,0
+205,Mats Hummels,GER,DF,Dortmund,32,1988,19.6,14,0.71,10,1,0,2,1,0,4,0.20,3,0,0,1,0,0
+206,Iago,BRA,DF,Augsburg,24,1997,24.2,57,2.36,49,5,1,1,1,0,9,0.37,7,1,1,0,0,0
+207,Stefan Ilsanker,AUT,DF|MF,Eint Frankfurt,32,1989,3.0,1,0.34,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+208,Burak İnce,TUR,FW,Arminia,17,2004,1.5,4,2.59,2,0,0,1,1,0,0,0.00,0,0,0,0,0,0
+209,Marcus Ingvartsen,DEN,MF,Union Berlin,25,1996,1.4,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+210,Marcus Ingvartsen,DEN,FW|MF,Mainz 05,25,1996,7.6,18,2.38,10,3,1,1,3,0,3,0.40,1,0,1,0,1,0
+211,Hiroki Ito,JPN,DF,Stuttgart,22,1999,26.1,26,1.00,20,3,0,2,0,1,3,0.11,3,0,0,0,0,0
+212,Cedric Itten,SUI,FW,Greuther Fürth,24,1996,7.1,7,0.99,5,0,0,1,1,0,0,0.00,0,0,0,0,0,0
+213,Gian-Luca Itter,GER,DF,Greuther Fürth,22,1999,16.2,29,1.79,16,8,3,1,0,1,1,0.06,0,1,0,0,0,0
+214,Lee Jae-sung,KOR,MF|FW,Mainz 05,28,1992,16.0,57,3.57,46,1,2,6,1,1,5,0.31,5,0,0,0,0,0
+215,Paul Jaeckel,GER,DF,Union Berlin,23,1998,22.7,16,0.70,13,0,1,0,0,2,2,0.09,2,0,0,0,0,0
+216,Kristijan Jakić,CRO,MF,Eint Frankfurt,24,1997,20.9,30,1.44,21,0,0,4,4,1,3,0.14,1,0,0,1,1,0
+217,Tony Jantschke,GER,DF,M'Gladbach,31,1990,2.5,1,0.40,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+218,Dennis Jastrzembski,POL,DF|FW,Hertha BSC,21,2000,2.5,6,2.39,4,0,1,1,0,0,0,0.00,0,0,0,0,0,0
+219,Fredrik Jensen,FIN,MF|FW,Augsburg,23,1997,4.6,11,2.37,9,1,0,0,1,0,1,0.22,1,0,0,0,0,0
+220,Marco John,GER,DF,Hoffenheim,19,2002,0.5,1,2.14,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+221,Stevan Jovetić,MNE,FW|MF,Hertha BSC,31,1989,11.3,42,3.72,32,1,2,5,2,0,2,0.18,1,1,0,0,0,0
+222,Gideon Jung,GER,DF,Greuther Fürth,26,1994,1.6,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+223,Anton Kade,GER,FW|MF,Hertha BSC,17,2004,0.9,1,1.17,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+224,Pavel Kadeřábek,CZE,DF|MF,Hoffenheim,29,1992,13.3,31,2.33,29,0,1,1,0,0,3,0.23,3,0,0,0,0,0
+225,Florian Kainz,AUT,MF|FW,Köln,28,1992,25.8,97,3.76,59,28,3,4,2,1,14,0.54,10,2,0,2,0,0
+226,Sasa Kalajdzic,AUT,FW,Stuttgart,24,1997,13.6,34,2.51,26,0,0,6,2,0,3,0.22,1,0,0,2,0,0
+227,Daichi Kamada,JPN,MF,Eint Frankfurt,24,1996,23.8,82,3.45,63,4,4,5,4,2,7,0.29,6,0,1,0,0,0
+228,Kevin Kampl,SVN,MF,RB Leipzig,30,1990,21.1,40,1.89,37,1,0,0,1,1,4,0.19,4,0,0,0,0,0
+229,Stefanos Kapino,GRE,GK,Arminia,27,1994,1.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+230,Atakan Karazor,GER,MF,Stuttgart,24,1996,21.1,38,1.80,32,1,1,0,1,3,2,0.09,2,0,0,0,0,0
+231,Silas Katompa,COD,FW|MF,Stuttgart,22,1998,3.1,2,0.66,1,0,0,0,1,0,1,0.33,0,0,0,0,1,0
+232,Noah Katterbach,GER,DF,Köln,20,2001,0.2,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+233,Yannik Keitel,GER,MF,Freiburg,21,2000,5.6,8,1.43,6,0,0,2,0,0,0,0.00,0,0,0,0,0,0
+234,Marc-Oliver Kempf,GER,DF,Hertha BSC,26,1995,11.7,13,1.11,11,1,0,1,0,0,2,0.17,2,0,0,0,0,0
+235,Marc-Oliver Kempf,GER,DF,Stuttgart,26,1995,9.3,17,1.82,15,0,0,1,1,0,0,0.00,0,0,0,0,0,0
+236,Rani Khedira,GER,MF,Union Berlin,27,1994,30.6,34,1.11,26,1,1,2,2,2,2,0.07,2,0,0,0,0,0
+237,Luca Kilian,GER,FW,Mainz 05,21,1999,0.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+238,Luca Kilian,GER,DF,Köln,21,1999,25.3,13,0.51,11,1,0,0,1,0,3,0.12,2,1,0,0,0,0
+239,Joshua Kimmich,GER,MF,Bayern Munich,26,1995,27.5,155,5.64,81,63,1,3,3,4,24,0.87,9,13,0,0,1,1
+240,Philipp Klement,GER,MF,Stuttgart,28,1992,3.8,19,5.06,13,6,0,0,0,0,1,0.27,0,1,0,0,0,0
+241,Mateo Klimowicz,GER,MF|FW,Stuttgart,21,2000,6.7,19,2.83,11,0,2,2,4,0,1,0.15,1,0,0,0,0,0
+242,Fabian Klos,GER,FW,Arminia,33,1987,15.8,27,1.71,25,0,1,1,0,0,2,0.13,2,0,0,0,0,0
+243,Lukas Klostermann,GER,DF,RB Leipzig,25,1996,18.3,12,0.66,12,0,0,0,0,0,1,0.05,1,0,0,0,0,0
+244,Lukas Klünter,GER,DF,Hertha BSC,25,1996,2.2,4,1.86,3,0,1,0,0,0,0,0.00,0,0,0,0,0,0
+245,Ansgar Knauff,GER,FW|MF,Dortmund,19,2002,1.3,3,2.37,3,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+246,Ansgar Knauff,GER,DF|MF,Eint Frankfurt,19,2002,8.4,23,2.73,16,1,2,1,3,0,3,0.36,2,0,1,0,0,0
+247,Robin Knoche,GER,DF,Union Berlin,29,1992,33.0,19,0.58,17,0,0,0,2,0,0,0.00,0,0,0,0,0,0
+248,Gregor Kobel,SUI,GK,Dortmund,23,1997,28.5,4,0.14,2,2,0,0,0,0,1,0.04,1,0,0,0,0,0
+249,Dominik Kohr,GER,MF,Mainz 05,27,1994,17.9,46,2.57,36,1,1,4,2,2,10,0.56,8,0,0,1,1,0
+250,Kouadio Koné,FRA,MF,M'Gladbach,20,2001,24.3,49,2.11,38,0,5,1,5,0,4,0.17,2,0,0,0,2,0
+251,Odilon Kossonou,CIV,DF,Leverkusen,20,2001,19.9,16,0.80,14,0,0,1,0,1,1,0.05,1,0,0,0,0,0
+252,Filip Kostić,SRB,DF|FW,Eint Frankfurt,28,1992,28.0,141,5.03,74,48,5,12,2,0,13,0.46,8,4,0,1,0,0
+253,Andrej Kramarić,CRO,FW|MF,Hoffenheim,30,1991,30.1,98,3.26,74,5,5,8,6,0,14,0.47,14,0,0,0,0,0
+254,Christoph Kramer,GER,MF,M'Gladbach,30,1991,8.3,10,1.20,10,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+255,Florian Krüger,GER,FW|MF,Arminia,22,1999,12.5,25,2.02,22,0,2,1,0,0,2,0.16,2,0,0,0,0,0
+256,Max Kruse,GER,MF|FW,Wolfsburg,33,1988,12.5,34,2.71,28,0,0,4,2,0,7,0.56,6,0,0,0,1,0
+257,Max Kruse,GER,FW|MF,Union Berlin,33,1988,14.1,64,4.54,47,7,2,7,1,0,10,0.71,7,0,0,3,0,0
+258,Lukas Kübler,GER,DF|MF,Freiburg,28,1992,25.9,38,1.47,31,3,0,2,2,0,2,0.08,1,1,0,0,0,0
+259,Fabian Kunze,GER,MF,Arminia,23,1998,14.0,18,1.29,12,0,2,0,4,0,0,0.00,0,0,0,0,0,0
+260,Maxence Lacroix,FRA,DF,Wolfsburg,21,2000,27.7,26,0.94,20,1,1,3,0,1,0,0.00,0,0,0,0,0,0
+261,Konrad Laimer,AUT,MF,RB Leipzig,24,1997,13.8,34,2.47,28,0,3,2,1,0,7,0.51,5,0,1,1,0,0
+262,Stefan Lainer,AUT,DF,M'Gladbach,28,1992,16.3,37,2.41,30,1,1,0,5,0,6,0.39,4,0,1,0,1,0
+263,Vassilis Lambropoulos,GRE,DF,Bochum,31,1990,13.0,8,0.62,7,0,0,1,0,0,0,0.00,0,0,0,0,0,0
+264,Sam Lammers,NED,FW|MF,Eint Frankfurt,24,1997,5.7,10,1.74,8,1,0,1,0,0,0,0.00,0,0,0,0,0,0
+265,Bryan Lasme,FRA,FW,Arminia,22,1998,9.7,19,1.95,13,0,3,1,2,0,1,0.10,1,0,0,0,0,0
+266,Maxim Leitsch,GER,DF,Bochum,23,1998,17.1,10,0.59,9,0,0,1,0,0,2,0.12,2,0,0,0,0,0
+267,Tim Lemperle,GER,FW|MF,Köln,19,2002,1.7,12,7.25,10,0,0,1,1,0,0,0.00,0,0,0,0,0,0
+268,Christopher Lenz,GER,DF,Eint Frankfurt,26,1994,7.4,24,3.25,15,7,0,1,1,0,2,0.27,1,1,0,0,0,0
+269,Robert Lewandowski,POL,FW,Bayern Munich,32,1988,32.7,109,3.33,63,1,18,16,10,1,15,0.46,8,0,3,3,1,0
+270,Jamie Leweling,GER,FW|MF,Greuther Fürth,20,2001,21.8,45,2.07,22,0,10,3,8,2,5,0.23,2,0,2,0,1,0
+271,Philipp Lienhart,AUT,DF,Freiburg,25,1996,31.9,26,0.82,19,2,0,4,1,0,1,0.03,0,0,0,1,0,0
+272,Andreas Linde,SWE,GK,Greuther Fürth,28,1993,12.0,3,0.25,3,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+273,Jesper Lindstrøm,DEN,MF|FW,Eint Frankfurt,21,2000,22.0,89,4.05,58,11,10,7,3,0,8,0.36,5,2,0,1,0,0
+274,Dejan Ljubicic,AUT,MF|FW,Köln,23,1997,21.9,76,3.48,64,1,3,5,3,0,7,0.32,6,0,0,1,0,0
+275,Jürgen Locadia,NED,FW|MF,Bochum,27,1993,4.9,18,3.64,11,0,0,5,2,0,3,0.61,2,0,0,1,0,0
+276,Anthony Losilla,FRA,MF,Bochum,35,1986,32.6,45,1.42,37,0,1,3,2,2,2,0.06,1,0,1,0,0,0
+277,Marcel Lotka,POL,GK,Hertha BSC,20,2001,9.8,1,0.10,0,1,0,0,0,0,0,0.00,0,0,0,0,0,0
+278,Eduard Löwen,GER,MF,Bochum,24,1997,15.7,68,4.55,40,20,0,5,3,0,3,0.20,0,2,0,1,0,0
+279,Anderson Lucoqui,ANG,DF,Mainz 05,24,1997,8.3,14,1.70,9,1,1,2,1,0,0,0.00,0,0,0,0,0,0
+280,Dodi Lukebakio,BEL,FW,Hertha BSC,23,1997,2.0,3,1.53,1,0,0,0,2,0,1,0.51,0,0,0,0,1,0
+281,Dodi Lukebakio,BEL,FW|MF,Wolfsburg,23,1997,9.8,34,3.47,21,0,9,1,3,0,7,0.72,5,0,2,0,0,0
+282,Andrey Lunyov,RUS,GK,Leverkusen,29,1991,1.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+283,Andreas Luthe,GER,GK,Union Berlin,34,1987,27.0,1,0.04,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+284,Matej Maglica,CRO,MF,Stuttgart,22,1998,0.1,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+285,Arne Maier,GER,MF,Augsburg,22,1999,20.7,66,3.19,39,17,4,2,4,0,8,0.39,3,2,1,2,0,0
+286,Donyell Malen,NED,FW,Dortmund,22,1999,18.7,63,3.37,39,0,8,8,8,0,12,0.64,6,0,1,3,2,0
+287,Lennard Maloney,USA,DF,Dortmund,21,1999,0.1,1,10.00,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+288,Orel Mangala,BEL,MF,Stuttgart,23,1998,20.6,58,2.82,45,0,7,3,1,2,7,0.34,6,0,1,0,0,0
+289,Myziane Maolida,COM,FW|MF,Hertha BSC,22,1999,8.6,15,1.74,11,0,1,2,1,0,2,0.23,2,0,0,0,0,0
+290,Omar Marmoush,EGY,FW,Wolfsburg,22,1999,0.3,1,3.75,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+291,Omar Marmoush,EGY,FW,Stuttgart,22,1999,17.5,70,4.01,34,17,9,8,2,0,10,0.57,3,3,1,2,1,0
+292,Aarón Martín,ESP,DF,Mainz 05,24,1997,25.5,68,2.67,37,26,0,3,1,1,3,0.12,1,2,0,0,0,0
+293,Josep Martinez,ESP,GK,RB Leipzig,23,1998,1.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+294,Erhan Mašović,SRB,DF,Bochum,22,1998,17.2,3,0.18,2,0,0,0,1,0,0,0.00,0,0,0,0,0,0
+295,Roberto Massimo,GER,DF|FW,Stuttgart,20,2000,9.7,22,2.26,16,0,3,3,0,0,2,0.21,0,0,1,1,0,0
+296,Konstantinos Mavropanos,GRE,DF,Stuttgart,23,1997,30.1,31,1.03,19,1,1,7,1,2,3,0.10,2,0,0,1,0,0
+297,Eric Maxim Choupo-Moting,CMR,FW|MF,Bayern Munich,32,1989,4.2,13,3.10,9,0,1,3,0,0,4,0.95,2,0,0,2,0,0
+298,Kevin Mbabu,SUI,DF,Wolfsburg,26,1995,15.5,42,2.72,27,7,2,1,5,0,1,0.06,1,0,0,0,0,0
+299,Nathan de Medina,BEL,DF,Arminia,23,1997,8.6,1,0.12,0,0,0,1,0,0,0,0.00,0,0,0,0,0,0
+300,Admir Mehmedi,SUI,DF,Wolfsburg,30,1991,0.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+301,Jorge Meré,ESP,DF,Köln,24,1997,5.4,5,0.92,5,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+302,Thomas Meunier,BEL,DF,Dortmund,29,1991,15.6,31,1.99,27,0,0,2,2,0,8,0.51,7,0,0,0,1,0
+303,Marco Meyerhöfer,GER,DF,Greuther Fürth,25,1995,25.3,44,1.74,32,3,3,1,2,3,2,0.08,1,1,0,0,0,0
+304,Sven Michel,GER,FW,Union Berlin,31,1990,3.8,12,3.20,11,0,0,1,0,0,2,0.53,1,0,0,1,0,0
+305,Enzo Millot,FRA,MF,Stuttgart,19,2002,0.6,3,5.09,3,0,0,0,0,0,1,1.70,1,0,0,0,0,0
+306,Maximilian Mittelstädt,GER,DF|FW,Hertha BSC,24,1997,16.6,46,2.77,30,6,2,1,5,2,10,0.60,7,0,0,1,2,0
+307,Anthony Modeste,FRA,FW,Köln,33,1988,29.0,39,1.35,23,0,1,11,4,0,5,0.17,1,0,1,2,1,0
+308,Kevin Möhwald,GER,MF,Union Berlin,28,1993,3.9,16,4.07,13,0,1,1,1,0,0,0.00,0,0,0,0,0,0
+309,Clinton Mola,ENG,DF,Stuttgart,20,2001,1.3,1,0.80,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+310,Jan Morávek,CZE,MF,Augsburg,31,1989,5.2,19,3.63,18,0,0,0,0,1,0,0.00,0,0,0,0,0,0
+311,Ilaix Moriba,GUI,MF,RB Leipzig,18,2003,0.4,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+312,Youssoufa Moukoko,GER,FW|MF,Dortmund,16,2004,2.5,5,2.01,4,0,0,1,0,0,1,0.40,0,0,0,1,0,0
+313,Nordi Mukiele,FRA,DF|FW,RB Leipzig,23,1997,20.5,29,1.42,25,1,1,1,1,0,5,0.24,4,0,0,0,1,0
+314,Florian Müller,GER,GK,Stuttgart,23,1997,30.0,2,0.07,2,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+315,Thomas Müller,GER,MF,Bayern Munich,31,1989,28.4,152,5.35,135,2,1,9,3,2,27,0.95,26,0,0,0,0,1
+316,Torben Müsel,GER,MF,M'Gladbach,22,1999,0.1,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+317,Jamal Musiala,GER,MF|FW,Bayern Munich,18,2003,16.3,77,4.73,59,0,9,5,2,2,10,0.61,8,0,2,0,0,0
+318,Obite N'Dicka,CIV,DF,Eint Frankfurt,21,1999,31.7,28,0.88,24,1,1,2,0,0,7,0.22,5,0,0,2,0,0
+319,Nikolas Nartey,DEN,MF|DF,Stuttgart,21,2000,4.5,9,2.01,8,0,0,0,1,0,0,0.00,0,0,0,0,0,0
+320,Paul Nebel,GER,MF|FW,Mainz 05,18,2002,2.5,6,2.37,4,2,0,0,0,0,1,0.39,1,0,0,0,0,0
+321,David Nemeth,AUT,DF,Mainz 05,20,2001,3.5,2,0.58,2,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+322,Luca Netz,GER,DF|FW,M'Gladbach,18,2003,15.5,33,2.27,20,9,1,3,0,0,6,0.41,3,2,1,0,0,0
+323,Manuel Neuer,GER,GK,Bayern Munich,35,1986,27.9,6,0.22,6,0,0,0,0,0,2,0.07,2,0,0,0,0,0
+324,Florian Neuhaus,GER,MF,M'Gladbach,24,1997,23.6,61,2.70,53,0,2,2,3,1,6,0.27,6,0,0,0,0,0
+325,Jessic Ngankam,GER,FW,Greuther Fürth,21,2000,3.8,3,0.79,1,0,1,1,0,0,2,0.53,1,0,0,1,0,0
+326,Moussa Niakhate,SEN,DF,Mainz 05,25,1996,28.5,39,1.37,31,6,1,0,1,0,1,0.04,1,0,0,0,0,0
+327,Tanguy Nianzou,FRA,DF,Bayern Munich,19,2002,6.5,8,1.24,7,0,0,1,0,0,2,0.31,2,0,0,0,0,0
+328,Florian Niederlechner,GER,FW,Augsburg,30,1990,12.9,32,2.50,25,0,2,2,3,0,6,0.47,4,0,0,0,2,0
+329,Håvard Nielsen,NOR,MF|FW,Greuther Fürth,28,1993,15.2,22,1.45,14,0,3,1,3,1,3,0.20,3,0,0,0,0,0
+330,Joakim Nilsson,SWE,DF,Arminia,27,1994,30.4,16,0.53,13,1,1,0,0,1,1,0.03,1,0,0,0,0,0
+331,Christopher Nkunku,FRA,FW|MF,RB Leipzig,23,1997,30.3,145,4.79,92,9,17,12,13,2,31,1.02,19,0,5,2,4,1
+332,Felix Nmecha,GER,MF|FW,Wolfsburg,20,2000,3.6,12,3.35,6,0,1,3,2,0,1,0.28,0,0,0,1,0,0
+333,Lukas Nmecha,GER,FW|MF,Wolfsburg,22,1998,18.1,54,2.99,34,0,7,7,6,0,6,0.33,4,0,0,1,1,0
+334,Håvard Nordtveit,NOR,DF,Hoffenheim,31,1990,3.4,2,0.59,1,0,0,0,0,1,0,0.00,0,0,0,0,0,0
+335,Connor Noß,IRL,MF,M'Gladbach,20,2001,0.6,1,1.70,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+336,Hugo Novoa,ESP,MF|FW,RB Leipzig,18,2003,1.5,3,1.99,2,0,0,0,1,0,1,0.66,0,0,0,0,1,0
+337,Soma Novothny,HUN,FW|MF,Bochum,27,1994,0.9,2,2.28,1,0,0,0,1,0,0,0.00,0,0,0,0,0,0
+338,Kasim Nuhu,GHA,DF,Hoffenheim,26,1995,0.1,1,18.00,0,0,0,1,0,0,0,0.00,0,0,0,0,0,0
+339,Hans Nunoo Sarpei,GHA,DF|MF,Greuther Fürth,22,1998,7.1,5,0.70,3,0,0,0,0,2,0,0.00,0,0,0,0,0,0
+340,Bastian Oczipka,GER,DF,Union Berlin,32,1989,10.4,36,3.48,21,12,1,0,2,0,3,0.29,3,0,0,0,0,0
+341,Masaya Okugawa,JPN,MF|FW,Arminia,25,1996,28.1,43,1.53,34,0,3,2,3,1,3,0.11,2,0,0,1,0,0
+342,Mathias Olesen,LUX,MF|FW,Köln,20,2001,0.2,1,5.29,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+343,Dani Olmo,ESP,MF|FW,RB Leipzig,23,1998,8.3,32,3.87,22,1,3,1,5,0,6,0.73,5,0,0,0,1,0
+344,Karim Onisiwo,AUT,FW,Mainz 05,29,1992,26.2,92,3.51,63,1,14,5,9,0,12,0.46,10,0,1,1,0,0
+345,Willi Orban,HUN,DF,RB Leipzig,28,1992,29.4,18,0.61,15,0,0,2,1,0,2,0.07,2,0,0,0,0,0
+346,Stefan Ortega,GER,GK,Arminia,28,1992,33.0,16,0.48,14,2,0,0,0,0,0,0.00,0,0,0,0,0,0
+347,Patrick Osterhage,GER,MF,Bochum,21,2000,6.7,10,1.57,7,1,0,0,1,1,3,0.47,2,0,0,0,0,1
+348,Tomáš Ostrák,CZE,MF|FW,Köln,21,2000,0.3,3,8.71,3,0,0,0,0,0,1,2.90,1,0,0,0,0,0
+349,Paulo Otávio,BRA,DF|MF,Wolfsburg,26,1994,4.0,6,1.49,4,0,0,1,1,0,1,0.25,1,0,0,0,0,0
+350,Reece Oxford,ENG,DF,Augsburg,22,1998,29.9,17,0.57,14,0,0,2,1,0,2,0.07,1,0,0,1,0,0
+351,Salih Özcan,TUR,MF,Köln,23,1998,25.7,54,2.10,41,2,1,4,4,2,6,0.23,4,0,0,2,0,0
+352,Levin Öztunalı,GER,MF,Union Berlin,25,1996,6.4,13,2.05,10,0,0,0,3,0,0,0.00,0,0,0,0,0,0
+353,Gonçalo Paciência,POR,FW,Eint Frankfurt,26,1994,5.7,14,2.44,9,0,0,1,3,1,1,0.17,0,0,0,0,1,0
+354,Exequiel Palacios,ARG,MF,Leverkusen,22,1998,12.2,26,2.14,24,0,1,0,0,1,4,0.33,4,0,0,0,0,0
+355,Miloš Pantović,SRB,MF|FW,Bochum,25,1996,17.0,54,3.17,35,12,0,3,3,1,7,0.41,6,0,0,1,0,0
+356,Antonios Papadopoulos,GER,DF|MF,Dortmund,21,1999,0.2,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+357,Matondo-Merveille Papela,GER,MF,Mainz 05,20,2001,0.9,1,1.08,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+358,Kevin Paredes,USA,FW|DF,Wolfsburg,18,2003,0.2,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+359,Felix Passlack,GER,DF,Dortmund,23,1998,5.2,7,1.33,6,0,0,0,1,0,0,0.00,0,0,0,0,0,0
+360,Paulinho,BRA,FW|MF,Leverkusen,21,2000,13.5,51,3.77,33,4,3,5,5,1,8,0.59,5,0,2,1,0,0
+361,Benjamin Pavard,FRA,DF,Bayern Munich,25,1996,23.1,51,2.21,42,2,0,4,1,2,4,0.17,4,0,0,0,0,0
+362,Mads Pedersen,DEN,MF|DF,Augsburg,24,1996,15.5,34,2.20,17,7,2,2,3,3,2,0.13,0,2,0,0,0,0
+363,Peter Pekarík,SVK,DF,Hertha BSC,34,1986,24.8,28,1.13,24,1,0,1,2,0,0,0.00,0,0,0,0,0,0
+364,Philipp Pentke,GER,GK,Hoffenheim,36,1985,1.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+365,Ricardo Pepi,USA,FW|MF,Augsburg,18,2003,5.3,10,1.88,9,0,0,1,0,0,0,0.00,0,0,0,0,0,0
+366,Pavao Pervan,AUT,GK,Wolfsburg,33,1987,6.0,1,0.17,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+367,Nils Petersen,GER,FW,Freiburg,32,1988,6.4,12,1.86,9,0,1,0,1,1,0,0.00,0,0,0,0,0,0
+368,Jens Petter Hauge,NOR,MF|FW,Eint Frankfurt,21,1999,11.6,33,2.86,28,0,2,2,1,0,5,0.43,5,0,0,0,0,0
+369,Immanuel Pherai,NED,MF,Dortmund,20,2001,0.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+370,Maximilian Philipp,GER,MF,Wolfsburg,27,1994,10.7,35,3.27,26,3,2,0,4,0,6,0.56,4,1,1,0,0,0
+371,Krzysztof Piątek,POL,FW,Hertha BSC,26,1995,3.9,6,1.56,2,0,0,2,2,0,1,0.26,0,0,0,1,0,0
+372,Amos Pieper,GER,DF,Arminia,23,1998,26.4,13,0.49,9,0,0,2,0,2,0,0.00,0,0,0,0,0,0
+373,Marvin Plattenhardt,GER,DF,Hertha BSC,29,1992,18.2,63,3.46,19,40,1,1,2,0,9,0.49,3,5,0,0,1,0
+374,Alassane Pléa,FRA,MF|FW,M'Gladbach,28,1993,23.0,105,4.77,83,1,7,8,5,1,9,0.41,8,0,0,1,0,0
+375,Joel Pohjanpalo,FIN,FW,Leverkusen,26,1994,0.1,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+376,Sebastian Polter,GER,FW,Bochum,30,1991,26.0,54,2.16,40,0,2,3,9,0,3,0.12,1,0,0,0,2,0
+377,Marin Pongračić,CRO,DF,Dortmund,23,1997,9.2,3,0.33,3,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+378,Stefan Posch,AUT,DF,Hoffenheim,24,1997,24.4,8,0.33,8,0,0,0,0,0,1,0.04,1,0,0,0,0,0
+379,Yussuf Poulsen,DEN,FW|MF,RB Leipzig,27,1994,12.0,30,2.50,21,0,1,3,5,0,6,0.50,4,0,0,0,2,0
+380,Manuel Prietl,AUT,MF,Arminia,29,1991,23.6,29,1.23,19,0,6,2,0,2,4,0.17,4,0,0,0,0,0
+381,Grischa Prömel,GER,MF,Union Berlin,26,1995,26.9,42,1.56,35,0,0,3,3,1,5,0.19,4,0,0,1,0,0
+382,Nick Proschwitz,GER,FW,Hoffenheim,34,1986,0.3,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+383,Afimico Pululu,FRA,FW|MF,Greuther Fürth,22,1999,0.8,2,2.57,0,0,1,0,1,0,0,0.00,0,0,0,0,0,0
+384,Sidney Raebiger,GER,MF,RB Leipzig,16,2005,0.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+385,Diant Ramaj,GER,GK,Eint Frankfurt,19,2001,1.0,2,2.00,2,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+386,Guilherme Ramos,POR,DF,Arminia,23,1997,10.1,5,0.50,4,0,0,0,0,1,1,0.10,1,0,0,0,0,0
+387,Tobias Raschl,GER,MF,Greuther Fürth,21,2000,6.6,6,0.90,4,1,1,0,0,0,1,0.15,1,0,0,0,0,0
+388,David Raum,GER,DF|FW,Hoffenheim,23,1998,30.6,144,4.70,92,41,4,4,2,1,21,0.69,17,2,1,1,0,0
+389,Reinier,BRA,FW|MF,Dortmund,19,2002,1.8,3,1.67,2,0,0,1,0,0,0,0.00,0,0,0,0,0,0
+390,Panagiotis Retsos,GRE,DF|FW,Leverkusen,22,1998,0.4,1,2.81,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+391,Marco Reus,GER,MF|FW,Dortmund,32,1989,27.8,105,3.78,78,9,1,5,10,2,26,0.93,18,1,1,1,4,1
+392,Elvis Rexhbeçaj,GER,MF,Bochum,23,1997,28.2,48,1.76,33,5,1,2,7,0,4,0.15,3,0,0,0,1,0
+393,Gio Reyna,USA,MF,Dortmund,18,2002,4.9,20,4.09,12,7,1,0,0,0,1,0.20,0,1,0,0,0,0
+394,Chris Richards,USA,DF,Hoffenheim,21,2000,14.5,11,0.76,10,0,0,1,0,0,5,0.35,5,0,0,0,0,0
+395,Chris Richards,USA,DF,Bayern Munich,21,2000,0.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+396,Omar Richards,ENG,DF,Bayern Munich,23,1998,4.9,11,2.26,7,1,1,0,2,0,0,0.00,0,0,0,0,0,0
+397,Marco Richter,GER,FW|MF,Hertha BSC,23,1997,18.9,47,2.48,25,8,5,4,5,0,2,0.11,1,0,0,0,1,0
+398,Manuel Riemann,GER,GK,Bochum,32,1988,31.0,24,0.80,19,5,0,0,0,0,2,0.07,1,1,0,0,0,0
+399,Marc Roca,ESP,MF,Bayern Munich,24,1996,4.2,9,2.14,6,2,0,1,0,0,1,0.24,1,0,0,0,0,0
+400,Cimo Röcker,GER,DF,Hertha BSC,27,1994,0.2,1,4.09,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+401,Sebastian Rode,GER,MF,Eint Frankfurt,30,1990,8.4,31,3.68,28,0,0,2,0,1,1,0.12,1,0,0,0,0,0
+402,Romario Rösch,GER,MF,Mainz 05,22,1999,0.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+403,Tom Rothe,GER,DF,Dortmund,16,2004,1.0,1,0.96,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+404,Jérôme Roussillon,FRA,DF,Wolfsburg,28,1993,19.7,35,1.77,29,2,2,1,1,0,1,0.05,1,0,0,0,0,0
+405,Sebastian Rudy,GER,MF,Hoffenheim,31,1990,8.6,16,1.86,13,1,0,1,1,0,4,0.47,3,0,0,0,1,0
+406,Georginio Rutter,FRA,FW|MF,Hoffenheim,19,2002,17.9,46,2.57,25,0,9,4,5,3,7,0.39,4,0,3,0,0,0
+407,Julian Ryerson,NOR,DF,Union Berlin,23,1997,15.9,34,2.14,26,2,1,5,0,0,3,0.19,2,0,0,1,0,0
+408,Frederik Rønnow,DEN,GK,Union Berlin,28,1992,7.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+409,Marcel Sabitzer,AUT,MF|FW,RB Leipzig,27,1994,0.5,2,3.67,2,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+410,Marcel Sabitzer,AUT,MF|DF,Bayern Munich,27,1994,10.1,26,2.58,23,0,0,2,0,1,2,0.20,2,0,0,0,0,0
+411,Roland Sallai,HUN,MF|FW,Freiburg,24,1997,17.2,48,2.78,31,0,1,6,10,0,7,0.41,4,0,0,1,2,0
+412,Diadie Samassékou,MLI,MF,Hoffenheim,25,1996,18.4,29,1.58,23,0,1,5,0,0,3,0.16,2,0,0,1,0,0
+413,Leroy Sané,GER,FW|MF,Bayern Munich,25,1996,22.0,112,5.10,78,8,12,11,2,1,14,0.64,10,0,1,2,1,0
+414,Mohamed Sankoh,NED,FW,Stuttgart,17,2003,0.0,1,22.50,0,0,0,1,0,0,0,0.00,0,0,0,0,0,0
+415,Baptiste Santamaria,FRA,MF,Freiburg,26,1995,0.2,1,4.29,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+416,Bouna Sarr,SEN,DF,Bayern Munich,29,1992,0.7,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+417,Joe Scally,USA,DF,M'Gladbach,18,2002,21.2,41,1.93,35,2,0,2,2,0,5,0.24,3,0,0,2,0,0
+418,Kevin Schade,GER,MF|FW,Freiburg,19,2001,9.2,24,2.60,9,0,4,3,8,0,3,0.32,1,0,0,0,2,0
+419,András Schäfer,HUN,MF,Union Berlin,22,1999,2.7,6,2.27,4,0,2,0,0,0,2,0.76,1,0,1,0,0,0
+420,Louis Schaub,AUT,MF|FW,Köln,26,1994,7.3,27,3.72,19,2,1,2,2,1,4,0.55,4,0,0,0,0,0
+421,Patrik Schick,CZE,FW,Leverkusen,25,1996,23.1,50,2.17,34,0,3,11,2,0,14,0.61,10,0,2,1,1,0
+422,Kingsley Schindler,GHA,DF|FW,Köln,28,1993,3.9,12,3.09,9,1,0,1,1,0,3,0.77,2,1,0,0,0,0
+423,Xaver Schlager,AUT,MF,Wolfsburg,23,1997,11.6,14,1.21,12,0,1,1,0,0,2,0.17,2,0,0,0,0,0
+424,Keven Schlotterbeck,GER,DF|FW,Freiburg,24,1997,3.5,2,0.57,2,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+425,Nico Schlotterbeck,GER,DF,Freiburg,21,1999,30.9,56,1.81,41,0,3,6,5,1,4,0.13,3,0,0,1,0,0
+426,Jonathan Schmid,FRA,DF,Freiburg,31,1990,6.5,18,2.76,11,4,0,2,1,0,1,0.15,1,0,0,0,0,0
+427,Benno Schmitz,GER,DF,Köln,26,1994,26.9,75,2.79,60,11,0,2,1,1,11,0.41,8,2,0,1,0,0
+428,Alessandro Schöpf,AUT,MF,Arminia,27,1994,26.6,91,3.42,64,11,3,6,7,0,5,0.19,4,0,0,0,1,0
+429,Nico Schulz,GER,DF,Dortmund,28,1993,9.3,15,1.61,11,2,1,0,0,1,2,0.22,2,0,0,0,0,0
+430,Marvin Schwäbe,GER,GK,Köln,26,1995,21.0,2,0.10,1,1,0,0,0,0,0,0.00,0,0,0,0,0,0
+431,Alexander Schwolow,GER,GK,Hertha BSC,29,1992,24.2,2,0.08,1,1,0,0,0,0,0,0.00,0,0,0,0,0,0
+432,Paul Seguin,GER,MF,Greuther Fürth,26,1995,23.4,55,2.35,43,6,1,2,3,0,4,0.17,4,0,0,0,0,0
+433,Davie Selke,GER,FW,Hertha BSC,26,1995,11.2,16,1.44,14,0,1,1,0,0,2,0.18,2,0,0,0,0,0
+434,Lion Semić,GER,DF,Dortmund,17,2003,0.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+435,Suat Serdar,GER,MF|FW,Hertha BSC,24,1997,24.6,53,2.15,32,0,8,3,7,3,2,0.08,1,0,0,0,1,0
+436,Janni Serra,GER,FW,Arminia,23,1998,12.4,20,1.61,15,0,1,3,1,0,3,0.24,1,0,1,1,0,0
+437,Zidan Sertdemir,DEN,MF|FW,Leverkusen,16,2005,0.2,1,5.00,0,1,0,0,0,0,0,0.00,0,0,0,0,0,0
+438,Nils Seufert,GER,MF,Greuther Fürth,24,1997,1.1,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+439,Kiliann Sildillia,FRA,DF|MF,Freiburg,19,2002,1.9,4,2.11,4,0,0,0,0,0,1,0.53,1,0,0,0,0,0
+440,André Silva,POR,FW,RB Leipzig,25,1995,23.1,51,2.21,34,0,4,8,4,1,15,0.65,10,0,1,3,1,0
+441,Mohamed Simakan,FRA,DF,RB Leipzig,21,2000,22.3,18,0.81,15,0,0,2,1,0,2,0.09,1,0,0,0,1,0
+442,Daley Sinkgraven,NED,DF,Leverkusen,26,1995,3.9,6,1.53,6,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+443,Tobias Sippel,GER,GK,M'Gladbach,33,1988,1.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+444,Hugo Siquet,BEL,DF,Freiburg,19,2002,0.2,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+445,Ellyes Skhiri,TUN,MF,Köln,26,1995,20.2,29,1.43,28,0,0,0,0,1,1,0.05,1,0,0,0,0,0
+446,Robert Skov,DEN,FW|DF,Hoffenheim,25,1996,4.1,16,3.91,7,4,0,4,0,1,3,0.73,1,0,0,2,0,0
+447,Danilo Soares,BRA,DF,Bochum,29,1991,28.5,60,2.11,43,5,2,0,6,4,5,0.18,4,0,0,0,1,0
+448,Yann Sommer,SUI,GK,M'Gladbach,32,1988,33.0,2,0.06,2,0,0,0,0,0,1,0.03,1,0,0,0,0,0
+449,Borna Sosa,CRO,DF|FW,Stuttgart,23,1998,27.8,117,4.22,74,28,5,4,5,1,15,0.54,11,2,1,0,1,0
+450,Djibril Sow,SUI,MF,Eint Frankfurt,24,1997,26.8,57,2.12,45,2,0,2,4,4,7,0.26,6,0,0,0,1,0
+451,Jerry St. Juste,NED,DF,Mainz 05,24,1996,6.7,13,1.94,7,0,0,3,1,2,0,0.00,0,0,0,0,0,0
+452,Anton Stach,GER,MF,Mainz 05,22,1998,20.7,59,2.85,35,10,2,5,7,0,10,0.48,8,1,0,1,0,0
+453,Kostas Stafylidis,GRE,DF|MF,Bochum,27,1993,15.4,29,2.01,12,12,1,3,0,1,3,0.21,0,1,0,1,0,1
+454,Josip Stanišić,CRO,DF,Bayern Munich,21,2000,7.2,17,2.37,14,1,0,2,0,0,1,0.14,0,0,0,1,0,0
+455,Niklas Stark,GER,DF,Hertha BSC,26,1995,22.6,12,0.53,10,1,0,1,0,0,0,0.00,0,0,0,0,0,0
+456,Renato Steffen,SUI,FW|MF,Wolfsburg,29,1991,10.7,36,3.35,26,1,1,2,4,2,2,0.19,1,0,0,1,0,0
+457,Pascal Stenzel,GER,DF,Stuttgart,25,1996,10.0,19,1.91,15,3,0,1,0,0,0,0.00,0,0,0,0,0,0
+458,Angelo Stiller,GER,MF,Hoffenheim,20,2001,18.8,32,1.70,30,0,0,2,0,0,4,0.21,4,0,0,0,0,0
+459,Lars Stindl,GER,MF|FW,M'Gladbach,32,1988,18.1,64,3.54,53,2,1,5,1,2,7,0.39,7,0,0,0,0,0
+460,Kevin Stöger,AUT,MF,Mainz 05,27,1993,4.7,33,7.05,22,5,1,4,1,0,2,0.43,2,0,0,0,0,0
+461,Tobias Strobl,GER,MF|DF,Augsburg,31,1990,3.6,6,1.67,4,0,0,1,1,0,0,0.00,0,0,0,0,0,0
+462,Niklas Süle,GER,DF,Bayern Munich,25,1995,20.4,28,1.37,22,1,2,3,0,0,5,0.25,4,0,0,1,0,0
+463,Ádám Szalai,HUN,FW,Mainz 05,33,1987,2.9,6,2.08,5,0,0,0,1,0,0,0.00,0,0,0,0,0,0
+464,Dominik Szoboszlai,HUN,MF|FW,RB Leipzig,20,2000,17.1,79,4.61,47,25,3,2,2,0,13,0.76,7,5,1,0,0,0
+465,Jonathan Tah,GER,DF,Leverkusen,25,1996,32.0,23,0.72,20,0,0,3,0,0,3,0.09,2,0,0,1,0,0
+466,Edmond Tapsoba,BFA,DF,Leverkusen,22,1999,20.2,10,0.50,10,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+467,Niklas Tauer,GER,DF|MF,Mainz 05,20,2001,5.4,6,1.11,4,0,0,1,1,0,1,0.18,1,0,0,0,0,0
+468,Robert Tesche,GER,MF,Bochum,34,1987,3.9,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+469,Cedric Teuchert,GER,MF|FW,Union Berlin,24,1997,1.2,3,2.57,2,0,0,1,0,0,0,0.00,0,0,0,0,0,0
+470,Jan Thielmann,GER,MF|FW,Köln,19,2002,13.2,46,3.47,40,1,4,0,1,0,8,0.60,6,0,2,0,0,0
+471,Erik Thommy,GER,FW|MF,Stuttgart,26,1994,3.0,17,5.58,9,4,1,2,1,0,1,0.33,0,0,0,1,0,0
+472,Marcus Thuram,FRA,FW,M'Gladbach,23,1997,10.9,36,3.64,20,1,7,3,5,0,2,0.20,0,0,0,1,1,0
+473,Alexis Tibidi,FRA,MF|FW,Stuttgart,17,2003,4.3,15,3.49,12,0,0,2,1,0,1,0.23,0,0,0,1,0,0
+474,Steffen Tigges,GER,FW|MF,Dortmund,23,1998,1.2,1,0.80,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+475,Malik Tillman,USA,FW|MF,Bayern Munich,19,2002,1.2,5,4.33,5,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+476,Timothy Tillman,GER,MF,Greuther Fürth,22,1999,22.3,50,2.25,31,9,4,3,1,2,4,0.18,3,0,1,0,0,0
+477,Umut Tohumcu,GER,MF,Hoffenheim,16,2004,0.1,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+478,Corentin Tolisso,FRA,MF,Bayern Munich,26,1994,7.8,28,3.58,26,1,0,1,0,0,5,0.64,5,0,0,0,0,0
+479,Tiago Tomás,POR,FW,Stuttgart,19,2002,11.9,26,2.18,15,0,4,2,5,0,2,0.17,0,0,0,1,1,0
+480,Jordan Torunarigha,GER,DF,Hertha BSC,23,1997,5.4,1,0.19,1,0,0,0,0,0,1,0.19,1,0,0,0,0,0
+481,Almamy Touré,MLI,DF|MF,Eint Frankfurt,25,1996,5.6,2,0.36,2,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+482,Lucas Tousart,FRA,MF,Hertha BSC,24,1997,21.8,38,1.74,28,0,3,1,1,5,0,0.00,0,0,0,0,0,0
+483,Kevin Trapp,GER,GK,Eint Frankfurt,31,1990,32.0,4,0.12,4,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+484,Christopher Trimmel,AUT,DF|FW,Union Berlin,34,1987,22.1,60,2.71,38,20,0,2,0,0,2,0.09,2,0,0,0,0,0
+485,Philipp Tschauner,GER,GK,RB Leipzig,35,1985,0.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+486,Tuta,BRA,DF,Eint Frankfurt,22,1999,24.3,16,0.66,13,1,0,0,1,1,0,0.00,0,0,0,0,0,0
+487,Anthony Ujah,NGA,FW|MF,Union Berlin,30,1990,0.4,1,2.57,0,0,0,1,0,0,0,0.00,0,0,0,0,0,0
+488,Sven Ulreich,GER,GK,Bayern Munich,32,1988,6.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+489,Dayot Upamecano,FRA,DF,Bayern Munich,22,1998,24.6,26,1.06,23,0,0,2,0,1,7,0.28,7,0,0,0,0,0
+490,Benjamin Uphoff,GER,GK,Freiburg,27,1993,2.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+491,Mark Uth,GER,MF|FW,Köln,29,1991,22.5,98,4.36,59,24,1,5,8,1,10,0.44,7,2,1,0,0,0
+492,Ruben Vargas,SUI,MF|FW,Augsburg,22,1998,22.0,46,2.09,36,0,6,4,0,0,5,0.23,4,0,0,1,0,0
+493,Sebastian Vasiliadis,GRE,MF,Arminia,23,1997,13.3,24,1.81,22,0,1,0,0,1,1,0.08,1,0,0,0,0,0
+494,Micky van de Ven,NED,DF,Wolfsburg,20,2001,2.1,1,0.47,1,0,0,0,0,0,1,0.47,1,0,0,0,0,0
+495,Vincent Vermeij,NED,MF,Freiburg,26,1994,0.0,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+496,Gabriel Vidovic,CRO,FW|MF,Bayern Munich,17,2003,0.4,2,5.00,2,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+497,Nick Viergever,NED,DF,Greuther Fürth,31,1989,23.7,9,0.38,8,1,0,0,0,0,0,0.00,0,0,0,0,0,0
+498,Andreas Voglsammer,GER,FW|MF,Union Berlin,29,1992,9.8,24,2.45,19,0,0,3,2,0,1,0.10,1,0,0,0,0,0
+499,Kevin Vogt,GER,DF,Hoffenheim,29,1991,28.5,34,1.19,33,0,0,0,1,0,5,0.18,5,0,0,0,0,0
+500,Aster Vranckx,BEL,MF,Wolfsburg,18,2002,12.7,32,2.52,19,2,7,3,1,0,1,0.08,1,0,0,0,0,0
+501,Luca Waldschmidt,GER,MF|FW,Wolfsburg,25,1996,8.0,13,1.63,7,2,0,3,1,0,2,0.25,0,0,0,1,1,0
+502,Paul Wanner,GER,FW|MF,Bayern Munich,15,2005,0.4,2,4.62,2,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+503,Wout Weghorst,NED,FW,Wolfsburg,28,1992,17.3,38,2.20,28,0,1,5,3,1,3,0.17,3,0,0,0,0,0
+504,Noah Weißhaupt,GER,MF|FW,Freiburg,19,2001,1.1,7,6.49,5,0,1,0,1,0,0,0.00,0,0,0,0,0,0
+505,Silvan Widmer,SUI,DF,Mainz 05,28,1993,32.4,61,1.88,48,6,1,1,3,2,10,0.31,9,0,0,0,0,1
+506,Jetro Willems,NED,DF,Greuther Fürth,27,1994,17.8,23,1.30,21,1,0,1,0,0,1,0.06,1,0,0,0,0,0
+507,Patrick Wimmer,AUT,FW|MF,Arminia,20,2001,22.8,91,3.99,45,15,13,8,9,1,10,0.44,6,1,0,1,2,0
+508,Jonas Wind,DEN,FW|MF,Wolfsburg,22,1999,13.1,39,2.97,29,1,1,4,4,0,5,0.38,3,1,0,1,0,0
+509,Marten Winkler,GER,MF,Hertha BSC,18,2002,0.3,1,3.46,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+510,Frederik Winther,DEN,DF,Augsburg,20,2001,3.6,2,0.55,2,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+511,Florian Wirtz,GER,MF|FW,Leverkusen,18,2003,20.6,117,5.69,85,10,13,5,3,1,23,1.12,15,3,5,0,0,0
+512,Axel Witsel,BEL,MF|DF,Dortmund,32,1989,21.6,25,1.16,23,0,0,0,1,1,1,0.05,1,0,0,0,0,0
+513,Hannes Wolf,AUT,FW|MF,M'Gladbach,22,1999,3.4,6,1.76,5,0,0,0,0,1,0,0.00,0,0,0,0,0,0
+514,Marius Wolf,GER,DF|FW,Dortmund,26,1995,14.7,34,2.32,24,0,2,6,2,0,5,0.34,3,0,1,0,1,0
+515,Luca Wollschläger,GER,FW|MF,Hertha BSC,18,2003,0.2,1,5.63,1,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+516,Jeong Woo-yeong,KOR,FW|MF,Freiburg,21,1999,19.8,51,2.58,40,0,3,7,1,0,7,0.35,5,0,1,1,0,0
+517,Joscha Wosz,GER,DF,RB Leipzig,19,2002,0.1,0,0.00,0,0,0,0,0,0,0,0.00,0,0,0,0,0,0
+518,Dan-Axel Zagadou,FRA,DF,Dortmund,22,1999,10.6,10,0.95,8,0,0,2,0,0,1,0.09,1,0,0,0,0,0
+519,Denis Zakaria,SUI,MF|DF,M'Gladbach,24,1996,15.5,28,1.81,22,0,0,3,2,1,4,0.26,2,0,0,2,0,0
+520,Deyovaisio Zeefuik,NED,DF,Hertha BSC,23,1998,6.3,10,1.59,8,1,0,0,1,0,0,0.00,0,0,0,0,0,0
+521,Robin Zentner,GER,GK,Mainz 05,26,1994,32.0,3,0.09,2,1,0,0,0,0,0,0.00,0,0,0,0,0,0
+522,Andi Zeqiri,SUI,FW|MF,Augsburg,22,1999,11.3,23,2.01,16,0,2,4,0,1,3,0.26,3,0,0,0,0,0
+523,Simon Zoller,GER,FW,Bochum,30,1991,6.6,9,1.36,7,0,0,1,1,0,1,0.15,1,0,0,0,0,0

@@ -1,0 +1,36 @@
+Rk,Player,Nation,Pos,Squad,Age,Born,Playing Time MP,Playing Time Starts,Playing Time Min,Playing Time 90s,Performance GA,Performance GA90,Performance SoTA,Performance Saves,Performance Save%,Performance W,Performance D,Performance L,Performance CS,Performance CS%,Penalty Kicks PKatt,Penalty Kicks PKA,Penalty Kicks PKsv,Penalty Kicks PKm,Penalty Kicks Save%
+1,Oliver Baumann,GER,GK,Hoffenheim,30,1990,31,31,2790,31.0,51,1.65,132,81,65.9,10,8,13,6,19.4,9,6,2,1,25.0
+2,Elias Bördner,GER,GK,Eint Frankfurt,18,2002,1,1,90,1.0,1,1.00,6,5,83.3,1,0,0,0,0.0,0,0,0,0,
+3,Fabian Bredlow,GER,GK,Stuttgart,25,1995,1,1,90,1.0,1,1.00,9,8,88.9,1,0,0,0,0.0,0,0,0,0,
+4,Roman Bürki,SUI,GK,Dortmund,29,1990,19,18,1665,18.5,30,1.62,92,62,71.7,9,2,7,4,22.2,4,4,0,0,0.0
+5,Koen Casteels,BEL,GK,Wolfsburg,28,1992,32,32,2880,32.0,33,1.03,108,74,72.2,17,9,6,14,43.8,5,3,2,0,40.0
+6,Finn Dahmen,GER,GK,Mainz 05,22,1998,3,3,270,3.0,10,3.33,20,10,55.0,1,0,2,0,0.0,1,1,0,0,0.0
+7,Ralf Fährmann,GER,GK,Schalke 04,31,1988,22,22,1876,20.8,50,2.40,143,94,67.1,3,3,16,3,13.6,4,3,1,0,25.0
+8,Mark Flekken,NED,GK,Freiburg,27,1993,3,3,270,3.0,6,2.00,18,12,77.8,1,1,1,0,0.0,3,2,0,1,0.0
+9,Rafał Gikiewicz,POL,GK,Augsburg,32,1987,34,34,3060,34.0,54,1.59,178,126,73.0,10,6,18,7,20.6,9,6,1,2,14.3
+10,Lennart Grill,GER,GK,Leverkusen,21,1999,4,4,360,4.0,7,1.75,21,14,66.7,1,0,3,1,25.0,0,0,0,0,
+11,Péter Gulácsi,HUN,GK,RB Leipzig,30,1990,33,33,2970,33.0,30,0.91,80,50,66.3,19,8,6,15,45.5,3,3,0,0,0.0
+12,Marwin Hitz,SUI,GK,Dortmund,32,1987,16,16,1395,15.5,16,1.03,44,29,68.2,11,2,3,7,43.8,2,2,0,0,0.0
+13,Timo Horn,GER,GK,Köln,27,1993,34,34,3009,33.4,59,1.76,155,95,66.5,8,9,17,5,14.7,8,7,1,0,12.5
+14,Lukáš Hrádecký,FIN,GK,Leverkusen,30,1989,29,29,2565,28.5,29,1.02,83,55,66.3,13,9,7,8,27.6,2,1,1,0,50.0
+15,Rune Jarstein,NOR,GK,Hertha BSC,35,1984,8,8,720,8.0,13,1.62,33,20,63.6,2,1,5,1,12.5,2,1,1,0,50.0
+16,Loris Karius,GER,GK,Union Berlin,27,1993,4,3,292,3.2,1,0.31,4,4,75.0,1,2,0,2,66.7,0,0,0,0,
+17,Gregor Kobel,SUI,GK,Stuttgart,22,1997,33,33,2970,33.0,54,1.64,157,102,68.8,11,9,13,5,15.2,7,5,2,0,28.6
+18,Michael Langer,AUT,GK,Schalke 04,35,1985,3,2,239,2.7,12,4.52,24,13,50.0,0,0,2,0,0.0,0,0,0,0,
+19,Niklas Lomb,GER,GK,Leverkusen,27,1993,2,1,135,1.5,3,2.00,8,5,62.5,0,1,0,0,0.0,0,0,0,0,
+20,Andreas Luthe,GER,GK,Union Berlin,33,1987,31,31,2768,30.8,42,1.37,132,89,71.2,11,12,8,5,16.1,5,4,1,0,20.0
+21,Josep Martinez,ESP,GK,RB Leipzig,22,1998,1,1,90,1.0,2,2.00,4,2,50.0,0,0,1,0,0.0,0,0,0,0,
+22,Florian Müller,GER,GK,Freiburg,22,1997,31,31,2790,31.0,46,1.48,157,112,72.0,11,8,12,6,19.4,3,2,1,0,33.3
+23,Manuel Neuer,GER,GK,Bayern Munich,34,1986,33,33,2970,33.0,42,1.27,123,80,66.7,24,5,4,9,27.3,3,1,1,1,50.0
+24,Alexander Nübel,GER,GK,Bayern Munich,23,1996,1,1,90,1.0,2,2.00,4,2,50.0,0,1,0,0,0.0,0,0,0,0,
+25,Stefan Ortega,GER,GK,Arminia,27,1992,34,34,3060,34.0,52,1.53,170,118,72.4,9,8,17,11,32.4,6,5,1,0,16.7
+26,Jiří Pavlenka,CZE,GK,Werder Bremen,28,1992,34,34,3060,34.0,57,1.68,157,101,66.2,7,10,17,6,17.6,6,4,2,0,33.3
+27,Philipp Pentke,GER,GK,Hoffenheim,35,1985,3,3,270,3.0,3,1.00,13,10,76.9,1,2,0,0,0.0,0,0,0,0,
+28,Pavao Pervan,AUT,GK,Wolfsburg,32,1987,2,2,180,2.0,4,2.00,14,10,71.4,0,1,1,0,0.0,0,0,0,0,
+29,Frederik Rønnow,DEN,GK,Schalke 04,27,1992,11,10,945,10.5,24,2.29,67,45,70.1,0,4,6,1,10.0,4,4,0,0,0.0
+30,Alexander Schwolow,GER,GK,Hertha BSC,28,1992,26,26,2340,26.0,39,1.50,108,69,69.4,6,10,10,8,30.8,6,6,0,0,0.0
+31,Tobias Sippel,GER,GK,M'Gladbach,32,1988,4,3,344,3.8,6,1.57,19,13,68.4,1,1,1,1,33.3,0,0,0,0,
+32,Yann Sommer,SUI,GK,M'Gladbach,31,1988,31,31,2712,30.1,50,1.66,132,82,66.7,12,9,10,6,19.4,6,6,0,0,0.0
+33,Kevin Trapp,GER,GK,Eint Frankfurt,30,1990,33,33,2970,33.0,52,1.58,150,99,68.0,15,12,6,4,12.1,6,4,1,1,20.0
+34,Robin Zentner,GER,GK,Mainz 05,25,1994,31,31,2790,31.0,46,1.48,142,97,71.1,9,9,13,5,16.1,6,5,0,1,0.0
+35,Ron-Robert Zieler,GER,GK,Köln,31,1989,1,0,51,0.6,1,1.76,3,2,100.0,0,0,0,0,,1,1,0,0,0.0

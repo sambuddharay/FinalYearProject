@@ -1,0 +1,38 @@
+Rk,Player,Nation,Pos,Squad,Age,Born,Playing Time MP,Playing Time Starts,Playing Time Min,Playing Time 90s,Performance GA,Performance GA90,Performance SoTA,Performance Saves,Performance Save%,Performance W,Performance D,Performance L,Performance CS,Performance CS%,Penalty Kicks PKatt,Penalty Kicks PKA,Penalty Kicks PKsv,Penalty Kicks PKm,Penalty Kicks Save%
+1,Oliver Baumann,GER,GK,Hoffenheim,28,1990,33,33,2970,33.0,51,1.55,166,116,72.9,12,12,9,5,15.2,6,6,0,0,0.0
+2,Fabian Bredlow,GER,GK,Nürnberg,23,1995,14,12,1127,12.5,28,2.24,61,32,54.1,2,3,7,2,16.7,2,0,1,1,100.0
+3,Roman Bürki,SUI,GK,Dortmund,27,1990,32,32,2880,32.0,40,1.25,128,88,71.9,21,7,4,10,31.3,4,4,0,0,0.0
+4,Koen Casteels,BEL,GK,Wolfsburg,26,1992,26,26,2295,25.5,39,1.53,119,79,70.6,11,6,9,8,30.8,5,4,1,0,20.0
+5,Jaroslav Drobný,CZE,GK,Düsseldorf,38,1979,2,2,180,2.0,3,1.50,9,6,66.7,1,0,1,0,0.0,0,0,0,0,
+6,Michael Esser,GER,GK,Hannover 96,30,1987,32,32,2880,32.0,66,2.06,214,148,71.5,5,6,21,5,15.6,6,5,1,0,16.7
+7,Ralf Fährmann,GER,GK,Schalke 04,29,1988,17,16,1469,16.3,26,1.59,83,58,71.1,4,3,9,3,18.8,2,2,0,0,0.0
+8,Mark Flekken,NED,GK,Freiburg,25,1993,1,1,90,1.0,1,1.00,5,4,80.0,1,0,0,0,0.0,0,0,0,0,
+9,Fabian Giefer,GER,GK,Augsburg,28,1990,4,4,360,4.0,7,1.75,19,12,63.2,1,1,2,0,0.0,0,0,0,0,
+10,Péter Gulácsi,HUN,GK,RB Leipzig,28,1990,33,33,2925,32.5,27,0.83,117,91,80.3,19,9,5,15,45.5,5,4,0,1,0.0
+11,Marwin Hitz,SUI,GK,Dortmund,30,1987,2,2,180,2.0,4,2.00,6,2,33.3,2,0,0,0,0.0,1,0,0,1,
+12,Lukáš Hrádecký,FIN,GK,Leverkusen,28,1989,32,32,2880,32.0,47,1.47,127,81,65.4,18,4,10,9,28.1,4,3,1,0,25.0
+13,Rune Jarstein,NOR,GK,Hertha BSC,33,1984,31,31,2745,30.5,48,1.57,143,96,67.8,9,10,12,8,25.8,4,2,1,1,33.3
+14,Stefanos Kapino,GRE,GK,Werder Bremen,24,1994,1,0,45,0.5,1,2.00,3,2,66.7,0,0,0,0,,0,0,0,0,
+15,Gregor Kobel,SUI,GK,Hoffenheim,20,1997,1,1,90,1.0,1,1.00,7,6,100.0,1,0,0,0,0.0,1,1,0,0,0.0
+16,Gregor Kobel,SUI,GK,Augsburg,20,1997,16,16,1390,15.4,42,2.72,93,51,55.9,4,2,10,3,18.8,2,1,1,0,50.0
+17,Thomas Kraft,GER,GK,Hertha BSC,30,1988,4,3,315,3.5,9,2.57,16,7,56.3,2,0,1,1,33.3,2,2,0,0,0.0
+18,Andreas Luthe,GER,GK,Augsburg,31,1987,15,14,1310,14.6,22,1.51,78,57,71.8,3,5,6,2,14.3,0,0,0,0,
+19,Christian Mathenia,GER,GK,Nürnberg,26,1992,22,22,1933,21.5,40,1.86,118,80,67.8,1,7,14,2,9.1,2,2,0,0,0.0
+20,Florian Müller,GER,GK,Mainz 05,20,1997,24,24,2160,24.0,43,1.79,124,81,67.7,8,3,13,5,20.8,4,3,0,1,0.0
+21,Yvon Mvogo,SUI,GK,RB Leipzig,24,1994,2,1,135,1.5,2,1.33,4,2,75.0,0,0,1,1,100.0,1,1,0,0,0.0
+22,Manuel Neuer,GER,GK,Bayern Munich,32,1986,26,26,2303,25.6,23,0.90,56,34,64.3,20,3,3,10,38.5,3,3,0,0,0.0
+23,Alexander Nübel,GER,GK,Schalke 04,21,1996,18,18,1588,17.6,29,1.64,83,53,68.7,4,6,8,4,22.2,4,3,1,0,25.0
+24,Ramazan Özcan,AUT,GK,Leverkusen,34,1984,2,2,180,2.0,5,2.50,12,7,66.7,0,0,2,0,0.0,2,1,1,0,50.0
+25,Jiří Pavlenka,CZE,GK,Werder Bremen,26,1992,34,34,2978,33.1,47,1.42,153,106,71.2,14,11,9,5,14.7,4,3,0,1,0.0
+26,Pavao Pervan,AUT,GK,Wolfsburg,30,1987,10,8,765,8.5,11,1.29,40,29,72.5,5,1,2,1,12.5,1,0,0,1,
+27,Luca Plogmann,GER,GK,Werder Bremen,18,2000,1,0,37,0.4,1,2.43,1,0,100.0,0,0,0,0,,1,1,0,0,0.0
+28,Michael Rensing,GER,GK,Düsseldorf,34,1984,32,32,2880,32.0,62,1.94,170,108,67.6,12,5,15,5,15.6,7,7,0,0,0.0
+29,Frederik Rønnow,DEN,GK,Eint Frankfurt,25,1992,2,1,122,1.4,0,0.00,7,7,100.0,1,0,0,1,100.0,0,0,0,0,
+30,Samuel Şahin-Radlinger,AUT,GK,Hannover 96,25,1992,1,1,90,1.0,2,2.00,6,4,66.7,0,0,1,0,0.0,0,0,0,0,
+31,Alexander Schwolow,GER,GK,Freiburg,26,1992,33,33,2970,33.0,60,1.82,170,110,68.8,7,12,14,5,15.2,7,7,0,0,0.0
+32,Yann Sommer,SUI,GK,M'Gladbach,29,1988,34,34,3060,34.0,42,1.24,156,114,75.0,16,7,11,13,38.2,3,3,0,0,0.0
+33,Kevin Trapp,GER,GK,Eint Frankfurt,28,1990,33,33,2938,32.6,48,1.47,158,111,70.3,14,9,10,8,24.2,1,1,0,0,0.0
+34,Philipp Tschauner,GER,GK,Hannover 96,32,1985,1,1,90,1.0,3,3.00,6,3,66.7,0,0,1,0,0.0,1,1,0,0,0.0
+35,Sven Ulreich,GER,GK,Bayern Munich,29,1988,9,8,757,8.4,9,1.07,23,14,69.6,4,3,1,2,25.0,3,2,0,1,0.0
+36,Robin Zentner,GER,GK,Mainz 05,23,1994,10,10,900,10.0,14,1.40,49,35,71.4,4,4,2,2,20.0,0,0,0,0,
+37,Ron-Robert Zieler,GER,GK,Stuttgart,29,1989,34,34,3060,34.0,70,2.06,179,113,62.0,7,7,20,6,17.6,3,2,0,1,0.0
