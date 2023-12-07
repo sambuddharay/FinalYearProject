@@ -9,17 +9,27 @@ const URLSTAT_LIST = [
   "playingtime",
   "misc",
 ];
-const URLSTAT_TO_TABLEID_MAP = {
+const URLSTAT_TO_TABLEID_MAP_PLAYERS = {
   keepers: "stats_keeper",
   shooting: "stats_shooting",
   keepersadv: "stats_keeper_adv",
   passing: "stats_passing",
-  passing_types: "stats_passing_types",
   gca: "stats_gca",
   defense: "stats_defense",
-  possession: "stats_squads_possession_for",
+  possession: "stats_possession",
   playingtime: "stats_playing_time",
   misc: "stats_misc",
+};
+const URLSTAT_TO_TABLEID_MAP_SQUAD = {
+  keepers: "stats_squads_keeper_for",
+  shooting: "stats_squads_shooting_for",
+  keepersadv: "stats_squads_keeper_adv_for",
+  passing: "stats_squads_passing_for",
+  gca: "stats_squads_gca_for",
+  defense: "stats_squads_defense_for",
+  possession: "stats_squads_possession_for",
+  playingtime: "stats_squads_playing_time_for",
+  misc: "stats_squads_misc_for",
 };
 
 const LEAGUE_LIST = [
@@ -51,5 +61,6 @@ module.exports = {
   LEAGUE_LIST,
   LEAGUE_TO_ID,
   SEASON_LIST,
-  URLSTAT_TO_TABLEID_MAP,
+  URLSTAT_TO_TABLEID_MAP_PLAYERS,
+  URLSTAT_TO_TABLEID_MAP_SQUAD,
 };
