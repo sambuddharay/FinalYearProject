@@ -17,7 +17,7 @@ def squarify(M):
 
 def pad(m):
     a=m.shape[0]
-    padding = ((0,45-a),(0,0))
+    padding = ((0,60-a),(0,0))
     return np.pad(m, padding, mode='constant', constant_values=0)
 
 # def append_X_train(X_train: list, players: pd.DataFrame, goalkeepers: pd.DataFrame):
